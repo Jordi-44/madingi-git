@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bokor&display=swap');
+
+body {
+background-color:whitesmoke;
+font-family: "Bebas Neue", sans-serif;
+font-size: 16px;
+min-height: 100vh;
+text-align: left;
+}
+
+.section1{
+
+    border: 5px solid #3388CC;
+    border-radius: 5px ;
+    font-size: 20px;
+    margin: auto 70px;
+    background-color: black;
+    ;
+  }
+
+  .textformation {
+
+   
+    border: 5px solid #3388CC;
+    border-radius: 5px ;
+    background-color: lightcoral;
+
+  }
+
+
+  .textexperience{
+    border: 5px solid #3388CC;
+    border-radius: 5px ;
+    background-color: lightcoral;
+
+  }
+
+
+  .textelangue{
+    border: 5px solid #3388CC;
+    border-radius: 5px ;  
+    background-color: lightcoral;
+  }
+
+  .texteinteret{
+    border: 5px solid #3388CC;
+    border-radius: 5px ;  
+    background-color: black;
+    
+}
+
+.section2{
+    border: 5px solid plum;
+    border-radius: 5px ;  
+    font-size: 20px;
+    margin: auto 70px;
+    background-color: lightpink;
+    
+
+}
+
+.dategauches{
+    border: 5px solid plum;
+    border-radius: 5px ;  
+
+}
+
+.section3{
+    border: 5px solid plum;
+    border-radius: 5px ;  
+    font-size: 20px;
+    margin: auto 70px;
+    background-color: lightpink;
+}
+
+.section4{
+    border: 5px solid plum;
+    border-radius: 5px ;  
+    font-size: 20px;
+    margin: auto 70px;
+    background-color: lightpink;
+}
+
+.section5{
+    border: 5px solid plum;
+    border-radius: 5px ; 
+    font-size: 20px;
+    margin: auto 70px;
+    background-color: black;
+}

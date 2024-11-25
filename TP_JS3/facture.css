@@ -1,0 +1,44 @@
+body{
+    background-color: #b994e9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+table{
+    background-color: palevioletred;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.art,.prix,.quant{
+    color: black;
+    border-radius: 26px;
+    margin: 5px;
+   height: 30px;
+   font-weight: bold;
+   text-align: center;
+
+}
+
+button{
+    margin-left: 50px;
+    border-radius: 20px;
+    height: 30px;
+    width: 120px;
+    position: relative;
+    right: 20px;
+    background-color: black;
+    color: whitesmoke;    
+}
+
+button:hover{
+    background-color: whitesmoke;
+    color: black;   
+}
+
+
+
+
+.cacher1{
+    display: none;
+}
